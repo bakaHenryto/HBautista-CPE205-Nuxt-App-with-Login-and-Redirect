@@ -11,8 +11,6 @@
         <label for="password">Password:</label>
         <input id="password" type="password" v-model="password" required>
     
-
-    
         <button class = "btnsignup" type="Signup">Sign Up</button>
         </form>
     </div>
